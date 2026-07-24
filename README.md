@@ -29,12 +29,4 @@ AI Engineer especializado en agentes de IA y sistemas backend en producción, de
 [![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/salvadores-a113?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
 [![GitHub Streak](https://streak-stats.demolab.com?user=%20salvadores-a113&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvadores-a113&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/salvadores-a113)
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
