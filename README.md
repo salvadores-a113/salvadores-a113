@@ -32,4 +32,4 @@ AI Engineer especializado en agentes de IA y sistemas backend en producción, de
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### Lenguajes más usados
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvadores-a113&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=salvadores-a113&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
