@@ -24,6 +24,8 @@ AI Engineer especializado en agentes de IA y sistemas backend en producción, de
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+### Lenguajes más usados
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=salvadores-a113&layout=compact&theme=tokyonight&langs_count=8&hide=html,css)](https://github.com/stats-organization/github-stats-extended)
 
 ### GitHub Stats
 [![My Awesome Custom Stats](https://awesome-github-stats.azurewebsites.net/user-stats/salvadores-a113?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727)](https://git.io/awesome-stats-card)
